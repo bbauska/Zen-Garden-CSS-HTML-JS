@@ -145,11 +145,11 @@ Open source Zen Garden materials.
 					<ul>
 						<li class="next">
 							<a href="http://www.csszengarden.com/214/page1">
-								Next Designs <span class="indicator">›</span>
+								Next Designs in Deutsch (German)<span class="indicator">›</span>
 							</a>
 						</li>
 						<li class="viewall">
-							<a href="http://www.mezzoblue.com/zengarden/alldesigns/" title="View every submission to the Zen Garden.">
+							<a href="http://www.mezzoblue.com/zengarden/alldesigns/" title="xxx - error site: View every submission to the Zen Garden.">
 								View All Designs							</a>
 						</li>
 					</ul>
@@ -164,19 +164,19 @@ Open source Zen Garden materials.
 							View This Design’s <abbr title="Cascading Style Sheets">CSS</abbr>						</a>
 					</li>
 					<li class="css-resources">
-						<a href="http://www.mezzoblue.com/zengarden/resources/" title="Links to great sites with information on using CSS.">
+						<a href="http://www.mezzoblue.com/zengarden/resources/" title="xxx does't work - Links to great sites with information on using CSS.">
 							<abbr title="Cascading Style Sheets">CSS</abbr> Resources						</a>
 					</li>
 					<li class="zen-faq">
-						<a href="http://www.mezzoblue.com/zengarden/faq/" title="A list of Frequently Asked Questions about the Zen Garden.">
+						<a href="http://www.mezzoblue.com/zengarden/faq/" title="xx NOPE - A list of Frequently Asked Questions about the Zen Garden.">
 							<abbr title="Frequently Asked Questions">FAQ</abbr>						</a>
 					</li>
 					<li class="zen-submit">
-						<a href="http://www.mezzoblue.com/zengarden/submit/" title="Send in your own CSS file.">
+						<a href="http://www.mezzoblue.com/zengarden/submit/" title="out to lunch: Send in your own CSS file.">
 							Submit a Design						</a>
 					</li>
 					<li class="zen-translations">
-						<a href="http://www.mezzoblue.com/zengarden/translations/" title="View translated versions of this page.">
+						<a href="http://www.mezzoblue.com/zengarden/translations/" title="sorry, out of order - View translated versions of this page.">
 							Translations						</a>
 					</li>
 				</ul>
